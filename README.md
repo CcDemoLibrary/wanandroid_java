@@ -1,3 +1,5 @@
+# 网络缓存，和监听网络状态刷新数据
+
 # wanandroid_java
 wanandroid_java is an android client for [wanandroid open API](http://wanandroid.com/blog/show/2;jsessionid=34FDD3E17997A155785691CF962ADD95). And it`s a practice for [Android JetPack](https://developer.android.com/jetpack/).
 
